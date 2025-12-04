@@ -4,6 +4,8 @@
 
 **Transform from a passive crypto holder into a confident DeFi operator** by joining live calls every day, asking questions in real-time, and watching real DeFi operators manage real positions.
 
+**[👉 Join DeFi University Skool Community →](https://www.skool.com/defiuniversity)**
+
 ---
 
 ## 🎯 Learn from Real DeFi Operators, Live Every Day
