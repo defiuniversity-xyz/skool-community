@@ -215,16 +215,6 @@ Ready to learn from real DeFi operators in daily live calls?
 
 ---
 
-## 📊 What Members Are Saying
-
-> "The daily calls are what make this different. I can watch videos anywhere, but joining live calls and asking questions to real operators? That's invaluable." - **Community Member**
-
-> "I asked a question about my LP position in Wednesday's Portfolio Clinic and got immediate feedback from operators managing similar positions. That's the difference." - **Community Member**
-
-> "Joining live calls every day means I'm not just learning theory—I'm watching real operators make real decisions and learning from their process." - **Community Member**
-
----
-
 ## 🎯 Your Journey Starts Here
 
 1. **Join the Community** - Get immediate access to all live calls
