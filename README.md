@@ -1,210 +1,192 @@
 # DeFi University Skool Community
 
-## Join 150+ DeFi Learners Building Real Skillsets Through Daily Live Calls + Comprehensive Courses
+## Join 150+ DeFi Operators Learning from Real Operators in Daily Live Calls
 
-**Transform from a passive crypto holder into a confident DeFi operator** through the perfect combination of structured learning and live mentorship.
-
----
-
-## 🎯 The Learning Combination That Actually Works
-
-Most DeFi education stops at theory. You watch videos, read articles, but when it's time to deploy capital, you're still uncertain. **That's why we built something different.**
-
-### Courses Teach the Foundation
-Our 4 comprehensive courses give you the **"what" and "why"** of DeFi:
-- The mental models and strategies
-- The mathematical foundations
-- The risk frameworks
-- The protocol mechanics
-
-### Daily Live Calls Build the Skillset
-Our 5 weekly live calls give you the **"how" and "when"**:
-- Real-time application of course concepts
-- Immediate answers to your questions
-- Live portfolio examples
-- Current market context
-
-**Together, they create complete DeFi mastery.**
+**Transform from a passive crypto holder into a confident DeFi operator** by joining live calls every day, asking questions in real-time, and watching real DeFi operators manage real positions.
 
 ---
 
-## 📞 Daily Live Calls: The Game Changer
+## 🎯 Learn from Real DeFi Operators, Live Every Day
 
-**This is what makes DeFi University different.** While courses teach you the fundamentals, daily live calls ensure you can actually apply them.
+Most DeFi education is static—videos, articles, courses. You learn theory, but when it's time to deploy capital, you're still uncertain. **That's why we built something different.**
+
+**Join live calls every single day** where real DeFi operators show you exactly how they think, how they analyze opportunities, and how they manage risk—in real-time.
+
+### What Makes This Different
+
+- **Join live every day** - 5 weekly calls where you can participate in real-time
+- **Ask questions immediately** - Get answers from experienced operators on the spot
+- **See real operators in action** - Watch live portfolio reviews and strategy discussions
+- **Learn by watching** - See how decisions are made, not just what decisions to make
+- **150+ active members** - Connect with serious DeFi operators building real skillsets
+
+**This is how you build a real DeFi skillset—by learning from real operators, live.**
+
+---
+
+## 📞 Daily Live Calls: Join Live, Ask Questions, Learn from Real Operators
+
+**This is what makes DeFi University different.** Every day, you can join live calls with real DeFi operators who are actively managing positions, analyzing markets, and making real decisions.
 
 ### Monday 12pm-1pm PST: Market Review & Week Ahead
-**How it solidifies learning:**
-- Connects course fundamentals to current market events
-- Shows how theoretical concepts play out in real markets
-- Helps you understand market cycles and timing
-- Reinforces risk management principles from courses
+
+**Join live to:**
+- Watch real operators analyze current market conditions
+- See how they interpret market events and connect them to DeFi opportunities
+- Learn their process for planning the week ahead
+- Ask questions about market movements and their implications
 
 **What you'll learn:**
-- How to read market conditions using course frameworks
-- When to deploy strategies from your courses
-- How to adjust positions based on market context
+- How to read market conditions and identify trends
+- When to deploy capital based on market context
+- How to adjust positions based on changing conditions
 - Real-time application of portfolio protection strategies
 
+**Ask questions about:** Market analysis, timing strategies, risk management during volatility
+
 ### Tuesday 4pm-5pm PST: DeFi Fundamentals Deep Dive
-**How it solidifies learning:**
-- Deepens understanding of course concepts through Q&A
-- Clarifies confusing topics from the courses
-- Provides additional examples and case studies
-- Builds confidence in foundational knowledge
+
+**Join live to:**
+- Get immediate answers to your DeFi questions
+- Watch operators explain complex concepts in real-time
+- See how fundamentals apply to current protocols and opportunities
+- Learn from Q&A sessions with experienced operators
 
 **What you'll learn:**
-- Answers to questions from course material
-- Advanced applications of basic concepts
+- Answers to your specific questions about DeFi mechanics
+- Advanced applications of core concepts
 - Common mistakes and how to avoid them
-- Real-world examples of course principles
+- Real-world examples of how protocols actually work
+
+**Ask questions about:** Protocol mechanics, smart contracts, wallet security, any DeFi concept you're confused about
 
 ### Wednesday 12pm-1pm PST: Portfolio Clinic
-**How it solidifies learning:**
-- Shows course strategies in action with real portfolios
-- Demonstrates how to apply course frameworks to actual positions
-- Provides feedback on your own portfolio decisions
-- Connects theory to practice
+
+**Join live to:**
+- Watch real operators review actual portfolios
+- See how they analyze positions and make decisions
+- Get feedback on your own portfolio (if you share it)
+- Learn from real examples of what works and what doesn't
 
 **What you'll learn:**
-- How to analyze positions using course methodologies
-- When to enter/exit based on course strategies
-- Portfolio optimization techniques from courses
-- Risk assessment using course frameworks
+- How to analyze positions and assess risk
+- When to enter and exit positions
+- Portfolio optimization techniques
+- Risk assessment frameworks used by real operators
+
+**Ask questions about:** Your specific positions, risk management, portfolio allocation, entry/exit timing
 
 ### Thursday 4pm-5pm PST: DeFi Alpha & Opportunities
-**How it solidifies learning:**
-- Identifies opportunities using course evaluation frameworks
-- Shows how to assess new protocols with course knowledge
-- Demonstrates due diligence processes from courses
-- Applies risk assessment methods in real-time
+
+**Join live to:**
+- Watch operators identify and evaluate new opportunities
+- See how they perform due diligence on protocols
+- Learn their process for spotting high-yield opportunities
+- Get real-time alpha on emerging protocols and strategies
 
 **What you'll learn:**
-- How to spot opportunities using course frameworks
-- When to deploy capital based on course strategies
-- How to evaluate new protocols with course knowledge
-- Real-time alpha that complements course learning
+- How to spot opportunities in fast-moving markets
+- When to deploy capital based on operator insights
+- How to evaluate new protocols and assess risk
+- Real-time alpha on emerging opportunities
+
+**Ask questions about:** New protocols, yield opportunities, due diligence processes, risk assessment
 
 ### Friday 12pm-1pm PST: AMA & Open Office Hours
-**How it solidifies learning:**
-- Get personalized answers to course questions
-- Discuss your specific learning challenges
-- Receive guidance on your learning path
-- Connect with other members applying course material
+
+**Join live to:**
+- Ask any question you have about DeFi
+- Get personalized guidance from experienced operators
+- Discuss your specific challenges and goals
+- Connect with other members and learn from their questions
 
 **What you'll learn:**
-- Answers to your specific course questions
-- Guidance on which course to take next
-- Help applying course concepts to your situation
-- Community support for your learning journey
+- Answers to your specific questions
+- Guidance on your DeFi journey
+- Help applying concepts to your situation
+- Community support and shared learning
+
+**Ask questions about:** Anything—strategies, protocols, risk management, your specific situation
 
 ---
 
-## 📚 The 4 Comprehensive Courses in the DeFi Course Hub
+## 💡 Why Daily Live Calls Are Essential for Building a DeFi Skillset
 
-Each course is designed to work with daily live calls. The courses provide the foundation; the calls provide the practice.
+### 1. **Learn from Real Operators in Real-Time**
 
-### 1. Investor Mindset Course
-**What you learn:** The psychology and mental models of successful DeFi investors
+Watch real DeFi operators make real decisions. See how they think, how they analyze, and how they manage risk. This is far more valuable than static content—you're learning from people actively operating in DeFi.
 
-**How live calls reinforce it:**
-- Monday Market Reviews show mindset principles in action
-- Portfolio Clinics demonstrate emotional discipline
-- AMA sessions address mindset challenges in real-time
+### 2. **Get Immediate Answers to Your Questions**
 
-**Learning path:** Start here, then join live calls to see these principles applied daily
+When you're learning DeFi, questions arise constantly. Instead of waiting or guessing, join live calls and ask your questions directly. Get expert answers from real operators who are actively managing positions.
 
-### 2. Decentralized Finance Concepts
-**What you learn:** Complete DeFi fundamentals from blockchain basics to advanced protocols
+### 3. **See Real Strategies Applied in Real-Time**
 
-**How live calls reinforce it:**
-- Tuesday Fundamentals Deep Dives expand on course topics
-- Market Reviews connect fundamentals to current events
-- Alpha calls show how fundamentals help identify opportunities
+Portfolio Clinics show real positions, real strategies, and real results. You're not learning from hypothetical examples—you're seeing how operators actually manage their capital, what works, and what doesn't.
 
-**Learning path:** Take this course, then use live calls to ask questions and see real applications
+### 4. **Stay Current with Market Context**
 
-### 3. Concentrated Liquidity Provision
-**What you learn:** Professional LP strategies, impermanent loss, and advanced AMM mechanics
+DeFi moves fast. New protocols emerge, market conditions change, opportunities appear and disappear. Daily live calls keep you current with what's happening right now, not what happened months ago.
 
-**How live calls reinforce it:**
-- Portfolio Clinics show real LP positions using course strategies
-- Market Reviews help you time LP entries/exits
-- AMA sessions answer specific LP questions from the course
+### 5. **Build Confidence Through Observation**
 
-**Learning path:** Study the course, then join Portfolio Clinics to see strategies in action
+Confidence comes from understanding how things actually work. By watching real operators in action, you build confidence in your own decision-making. You see the process, not just the outcome.
 
-### 4. DeFi Money Market Mastery
-**What you learn:** Lending, borrowing, protocol architectures, and yield optimization
+### 6. **Learn by Asking Questions**
 
-**How live calls reinforce it:**
-- Alpha calls identify money market opportunities
-- Portfolio Clinics review lending/borrowing positions
-- Fundamentals Deep Dives clarify complex protocol mechanics
-
-**Learning path:** Complete the course, then use live calls to optimize your money market strategies
+The best way to learn is to ask questions. Daily live calls give you regular opportunities to ask questions and get immediate answers from experienced operators.
 
 ---
 
-## 💡 Why Daily Live Calls Are Essential
+## 🎓 The Learning System: Join Live, Ask Questions, Build Skills
 
-### 1. **Reinforce Learning Through Repetition**
-Research shows that spaced repetition dramatically improves retention. Daily live calls ensure you're constantly revisiting and applying course concepts, not just learning them once and forgetting.
+### Phase 1: Join Live Calls Daily
 
-### 2. **Bridge Theory to Practice**
-Courses teach you what to do. Live calls show you how to do it. This bridge from theory to practice is where real skillsets are built.
+Start by joining live calls and observing:
+- Watch how operators analyze markets and opportunities
+- See how they make decisions in real-time
+- Learn their thought processes and frameworks
+- Ask questions when you're confused
 
-### 3. **Stay Current with Market Context**
-DeFi moves fast. Course material provides timeless principles, but live calls connect those principles to current market conditions, new protocols, and emerging opportunities.
+### Phase 2: Engage and Ask Questions
 
-### 4. **Get Immediate Answers**
-When you're learning, questions arise. Instead of waiting or guessing, you can ask in live calls and get expert answers within 24 hours in the community forum.
+As you become more comfortable:
+- Ask questions during live calls
+- Share your own positions for feedback
+- Participate in discussions
+- Learn from other members' questions
 
-### 5. **Build Confidence Through Practice**
-Confidence comes from doing, not just knowing. Daily live calls give you regular practice applying course concepts, building your skillset incrementally.
+### Phase 3: Build Your Skillset
 
-### 6. **Learn from Real Examples**
-Portfolio Clinics show real positions, real strategies, and real results. This is far more valuable than hypothetical examples in courses.
-
----
-
-## 🎓 The Complete Learning System
-
-### Phase 1: Foundation (Courses)
-Start with structured courses to build your knowledge base:
-- Investor Mindset → Mental foundation
-- DeFi Concepts → Technical foundation
-- Liquidity Provision → Strategy foundation
-- Money Markets → Advanced foundation
-
-### Phase 2: Application (Live Calls)
-Use daily live calls to apply and reinforce:
-- Ask questions about course material
-- See strategies in action
-- Get feedback on your approach
-- Stay current with market conditions
-
-### Phase 3: Mastery (Community)
-Engage with the community to solidify skills:
-- 24/7 forum support
-- Share your progress
-- Learn from others
-- Build your DeFi network
+Through consistent participation:
+- Develop your own analysis frameworks
+- Build confidence in decision-making
+- Connect with other operators
+- Apply what you learn to your own positions
 
 ---
 
 ## 👥 Community Benefits
 
+### Join Live Calls Every Day
+
+5 weekly live calls where you can join live, ask questions, and learn from real operators. All calls are recorded, but the real value is joining live and participating.
+
 ### 24/7 Expert Support
+
 Post questions in the community forum and get expert answers within 24 hours. Not from bots—from real DeFi operators running actual positions.
 
 ### Real-Time Market Insights
-Get exclusive research reports, market analysis, and protocol deep dives that complement your course learning.
+
+Get exclusive research reports, market analysis, and protocol deep dives from operators actively managing capital.
 
 ### Crash Protection Strategies
+
 Learn proven strategies to protect your portfolio during market volatility, demonstrated in real-time during market events.
 
 ### Active Community of 150+ Members
-Connect with serious DeFi investors who are on the same journey. Share strategies, ask questions, and learn together.
+
+Connect with serious DeFi operators who are on the same journey. Share strategies, ask questions, and learn together.
 
 ---
 
@@ -214,12 +196,12 @@ Connect with serious DeFi investors who are on the same journey. Share strategie
 **Annual:** $797/year (Save $367 - 2 months free)
 
 **What's included:**
-- ✅ Access to all 4 comprehensive courses
-- ✅ 5 weekly live mentorship calls
+- ✅ 5 weekly live mentorship calls (join live or watch recordings)
 - ✅ 24/7 community forum support
 - ✅ Real-time market insights and research
 - ✅ Crash protection strategies
 - ✅ Live call recordings with AI-generated outlines
+- ✅ Access to 150+ active DeFi operators
 
 **Cancel anytime.** No long-term commitment required.
 
@@ -227,7 +209,7 @@ Connect with serious DeFi investors who are on the same journey. Share strategie
 
 ## 🚀 Join the Community
 
-Ready to build your DeFi skillset through the perfect combination of structured learning and live mentorship?
+Ready to learn from real DeFi operators in daily live calls?
 
 **[👉 Join DeFi University Skool Community](https://www.skool.com/defiuniversity)**
 
@@ -235,55 +217,49 @@ Ready to build your DeFi skillset through the perfect combination of structured 
 
 ## 📊 What Members Are Saying
 
-> "The daily calls are what make this different. I can take a course anywhere, but having live mentorship to apply what I'm learning? That's invaluable." - **Community Member**
+> "The daily calls are what make this different. I can watch videos anywhere, but joining live calls and asking questions to real operators? That's invaluable." - **Community Member**
 
-> "I was stuck on a concept from the Liquidity Provision course. Asked about it in Wednesday's Portfolio Clinic and got a clear answer with real examples. That's the difference." - **Community Member**
+> "I asked a question about my LP position in Wednesday's Portfolio Clinic and got immediate feedback from operators managing similar positions. That's the difference." - **Community Member**
 
-> "The combination of courses + live calls means I'm not just learning theory—I'm building actual skills I can use." - **Community Member**
+> "Joining live calls every day means I'm not just learning theory—I'm watching real operators make real decisions and learning from their process." - **Community Member**
 
 ---
 
-## 🎯 Your Learning Journey Starts Here
+## 🎯 Your Journey Starts Here
 
-1. **Join the Community** - Get immediate access to all courses and live calls
-2. **Start with Investor Mindset** - Build your mental foundation
-3. **Join Your First Live Call** - See how theory becomes practice
-4. **Continue Through Courses** - Build your knowledge systematically
-5. **Apply in Live Calls** - Reinforce learning through practice
-6. **Engage with Community** - Get support and share progress
+1. **Join the Community** - Get immediate access to all live calls
+2. **Join Your First Live Call** - See real operators in action
+3. **Ask Your First Question** - Get immediate answers from experienced operators
+4. **Watch Portfolio Clinics** - See real positions and strategies
+5. **Engage Daily** - Build your skillset through consistent participation
+6. **Connect with Community** - Learn from other members and share your progress
 
-**The difference between knowing DeFi and being a DeFi operator? Daily practice through live calls.**
+**The difference between knowing about DeFi and being a DeFi operator? Learning from real operators in daily live calls.**
 
 ---
 
 ## 📅 Weekly Schedule at a Glance
 
-| Day | Time (PST) | Call Type | How It Reinforces Learning |
-|-----|-----------|-----------|---------------------------|
-| Monday | 12pm-1pm | Market Review & Week Ahead | Connects course fundamentals to current markets |
-| Tuesday | 4pm-5pm | DeFi Fundamentals Deep Dive | Expands on course concepts through Q&A |
-| Wednesday | 12pm-1pm | Portfolio Clinic | Shows course strategies in action |
-| Thursday | 4pm-5pm | DeFi Alpha & Opportunities | Applies course frameworks to find opportunities |
-| Friday | 12pm-1pm | AMA & Open Office Hours | Answers your specific course questions |
+| Day | Time (PST) | Call Type | Join Live To |
+|-----|-----------|-----------|--------------|
+| Monday | 12pm-1pm | Market Review & Week Ahead | Watch operators analyze markets and plan the week |
+| Tuesday | 4pm-5pm | DeFi Fundamentals Deep Dive | Ask questions and learn from Q&A sessions |
+| Wednesday | 12pm-1pm | Portfolio Clinic | See real portfolios reviewed by operators |
+| Thursday | 4pm-5pm | DeFi Alpha & Opportunities | Learn about new opportunities and protocols |
+| Friday | 12pm-1pm | AMA & Open Office Hours | Ask any question and get personalized guidance |
 
 ---
 
 ## 🔗 Related Resources
 
 - [DeFi University Website](https://defiuniversity.xyz)
-- [Beginner DeFi Concepts GitBook](https://github.com/defiuniversity-xyz/beginner-defi-concepts-gitbook)
-- [Liquidity Provision GitBook](https://github.com/defiuniversity-xyz/liquidity-provision-gitbook)
-- [Money Markets GitBook](https://github.com/defiuniversity-xyz/money-markets-gitbook)
-- [Perpetual Futures GitBook](https://github.com/defiuniversity-xyz/perpetual-futures-gitbook)
-- [Investor Mindset GitBook](https://github.com/defiuniversity-xyz/investor-mindset-gitbook)
 
 ---
 
-**Ready to transform your DeFi knowledge into real skills?**
+**Ready to learn from real DeFi operators in daily live calls?**
 
 **[Join 150+ Members Building DeFi Skillsets →](https://www.skool.com/defiuniversity)**
 
 ---
 
-*DeFi University - Where structured learning meets live mentorship*
-
+*DeFi University - Where you learn from real operators, live every day*
